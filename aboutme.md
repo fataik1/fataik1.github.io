@@ -10,6 +10,7 @@ My name is Fatai King. I have the following qualities:
 - I'm extremely loyal to my family
 - I want to travel the world
 -I graduated from Rutgers in December 2019.
+- PLayed soccer for 15+ years
 
 What else do you need?
 
