@@ -4,10 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Fatai King. I have the following qualities:
 
-- I rock a great mustache
+- I have a huge interest in sports
 - I'm extremely loyal to my family
+- I want to travel the world
+-I graduated from Rutgers in December 2019.
 
 What else do you need?
 
