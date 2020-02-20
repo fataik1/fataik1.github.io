@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What would you like to know about me?
 ---
 
 My name is Fatai King. I have the following qualities:
