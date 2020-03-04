@@ -3,11 +3,19 @@ layout: post
 title: Test markdown
 subtitle: Each post also has a subtitle
 gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+gh-badge:
+  - star
+  - fork
+  - follow
+tags:
+  - test
 comments: true
+published: true
 ---
 
+A lot of people are not content with the amount of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear other say how energized they are for the day to begin. The truth is, sleep can dictate the way your day might lay out in front of you. 
+
+The csv.file I used contained a dataset with 104 observations and 6 columns to determine if people were content with the amount of sleep they get. In this graph below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
 **Here is some bold text**
