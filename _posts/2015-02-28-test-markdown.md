@@ -19,9 +19,13 @@ I found my data off the website [https://www.kaggle.com/mlomuscio/sleepstudypilo
 
 ![head.png]({{site.baseurl}}/img/head.png)
 
-After cleaning the data and assigning 0 or 1 for yes and no, I was able to get a graph to see all of this data. 
+After cleaning the data and assigning 0 or 1 for yes and no, I was able to get a graph to see all of this data.  The purpose is to show the value for all the columns. I can see that majority of the people believe they do not get enough sleep. I also see that, most people typically eat breakfast in the morning. 
 
 ![Questions.png]({{site.baseurl}}/img/Questions.png)
+
+I wanted to see if there was a correlation with the amount of hours slept and if people were still tired. In this finding, I saw there was a small correlation and it's the more hours slept, the more tired the student was. The average amount of sleep a student has was 6 hours and 36 minutes. If students tend to sleep more than 7 hours or less than 6 hours, they also too are known to be more tired than the rest. 
+
+![correlation.png]({{site.baseurl}}/img/correlation.png)
 
 
 In this image below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
