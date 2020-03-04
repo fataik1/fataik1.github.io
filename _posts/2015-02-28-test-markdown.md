@@ -15,9 +15,14 @@ published: true
 
 A lot of people are not content with the amount of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear other say how energized they are for the day to begin. The truth is, sleep can dictate the way your day might lay out in front of you. 
 
-The csv.file I used contained a dataset with 104 observations and 6 columns to determine if people were content with the amount of sleep they get. In this graph below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
+The csv.file I used contained a dataset with 104 observations and 6 columns to determine if people were content with the amount of sleep they get. In this image below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
 
 ![Enough Data.png]({{site.baseurl}}/img/Enough Data.png)
+
+Next, we can look at different ways we can effect our sleep by not even knowing. We conducted a survey and we wanted to see how many people slept with their phone in arms reach and how many hours they slept.
+
+![PhoneReach Hrs.png]({{site.baseurl}}/img/PhoneReach Hrs.png)
+Majority of the people had their phones in arms reach. 71 people said yes while 31 said no. You might be wondering now if you sleep with your phone in an arms reach. There is no major difference between hours slept if you had your phone near you or not. 
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
