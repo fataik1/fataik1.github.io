@@ -13,11 +13,22 @@ comments: true
 published: true
 ---
 
-A lot of people are not content with the amount of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear other say how energized they are for the day to begin. The truth is, sleep can dictate the way your day might lay out in front of you. 
+A lot of people are not content with the amount of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear others express how energized they are for the day to begin. The truth is, sleep can dictate the way your day might lay out in front of you and even what you do before sleep contributes. 
 
-The csv.file I used contained a dataset with 104 observations and 6 columns to determine if people were content with the amount of sleep they get. In this image below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
+I found my data off the website [https://www.kaggle.com/mlomuscio/sleepstudypilot](https://www.kaggle.com/mlomuscio/sleepstudypilot). This was a fantastic way to test my skills I've been learning. The csv.file I used contained a dataset with 104 observations and 6 columns of sleeping habits to determine if students were satisfied with the amount of sleep they get. Upon downloading this data and cleaning it up a bit, I was able to find out a few observations. It seems like most people are on their phone before they sleep and have their phone in arms reach. 
+
+![head.png]({{site.baseurl}}/img/head.png)
+
+After cleaning the data and assigning 0 or 1 for yes and no, I was able to get a graph to see all of this data. 
+
+![Questions.png]({{site.baseurl}}/img/Questions.png)
+
+
+In this image below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
 
 ![Enough Data.png]({{site.baseurl}}/img/Enough Data.png)
+
+Throughout the day, we use a lot of energy as humans. I would like 
 
 Next, we can look at different ways we can effect our sleep by not even knowing. We conducted a survey and we wanted to see how many people slept with their phone in arms reach and how many hours they slept.
 
