@@ -17,7 +17,7 @@ A lot of people are not content with the amount of hours they sleep per night. T
 
 
 
-****Data
+****Data****
 
 I found my data off the website [https://www.kaggle.com/mlomuscio/sleepstudypilot](https://www.kaggle.com/mlomuscio/sleepstudypilot). This was a fantastic way to test my skills I've been learning. The csv.file I used contained a dataset with 104 observations and 6 columns of sleeping habits to determine if students were satisfied with the amount of sleep they get. Upon downloading this data and cleaning it up a bit, I was able to find out a few observations. 
 
@@ -48,4 +48,10 @@ Majority of the people had their phones in arms reach. 71 people said yes while 
 While you rest, your brain stays busy, it keeps your body running in top condition, preparing you for the day ahead. Without enough hours of sleep, you won’t be able to work, learn, create, and communicate at a level even close to your true potential. Regularly skimp on “service” and you’re headed for a major mental and physical breakdown. You may not be noticeably sleepy during the day, but losing even one hour of sleep can affect your ability to think properly and respond quickly.Some people sleep eight or nine hours a night but don’t feel well rested when they wake up because the quality of their sleep is poor. For adults, the correct hours needed for sleep are 7-9 hours. It's even appropriate to sleep for 6 hours. In the student survey, the mean of the people say they sleep for 6.6 hours. They are actually sleeping less than what the average hours of sleep is telling us. I want to see what were the hours people slept for this observation.
 
 ![Hours.png]({{site.baseurl}}/img/Hours.png)
+
+
+
+****Conclusion****
+
+Our need for sleep will only increase if we do not take care of the quality of our sleep. We need to make sure we are paying attention to phone usage before going to bed. Being on the phone before bed reduces the total amount of REM sleep, and compromises alertness the next morning. Over time, these effects can add up to a significant, chronic deficiency in sleep. Sleep Keeps Your Heart Healthy, it can also reduce stress in your life. A finding I found cool was that sleep Improves Your Memory. The most important to me about this is that sleep helps the body repair itself.
 
