@@ -19,7 +19,7 @@ A lot of people are not content with the amount of hours they sleep per night. T
 ##
 ****Data
 
-I found my data off the website [https://www.kaggle.com/mlomuscio/sleepstudypilot](https://www.kaggle.com/mlomuscio/sleepstudypilot). This was a fantastic way to test my skills I've been learning. The csv.file I used contained a dataset with 104 observations and 6 columns of sleeping habits to determine if students were satisfied with the amount of sleep they get. Upon downloading this data and cleaning it up a bit, I was able to find out a few observations. 
+I found my data off the website [https://www.kaggle.com/mlomuscio/sleepstudypilot] kaggle.com. This was a fantastic way to test my skills I've been learning. The csv.file I used contained a dataset with 104 observations and 6 columns of sleeping habits to determine if students were satisfied with the amount of sleep they get. Upon downloading this data and cleaning it up a bit, I was able to find out a few observations. 
 
 ![head.png]({{site.baseurl}}/img/head.png)
 
