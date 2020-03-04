@@ -23,18 +23,17 @@ After cleaning the data and assigning 0 or 1 for yes and no, I was able to get a
 
 ![Questions.png]({{site.baseurl}}/img/Questions.png)
 
-I wanted to see if there was a correlation with the amount of hours slept and if people were still tired. In this finding, I saw there was a small correlation and it's the more hours slept, the more tired the student was. The average amount of sleep a student has was 6 hours and 36 minutes. If students tend to sleep more than 7 hours or less than 6 hours, they also too are known to be more tired than the rest. 
+I wanted to see if there was a correlation with the amount of hours slept and if people were still tired. In this finding, I saw there was a small correlation and it's the more hours slept, the student was found to be a little less tired. The average amount of sleep a student has was 6 hours and 36 minutes. If students tend to sleep more than 7 hours or less than 6 hours, they also too are known to be more tired than the rest. 
 
 ![correlation.png]({{site.baseurl}}/img/correlation.png)
 
 
-In this image below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
+People will often cut back on their sleep for work, for family demands, or even to watch a good show on television. Sleep is a regular part of your routine, you may be at an increased risk for obesity, diabetes, high blood pressure, coronary heart disease and stroke, poor mental health, and even early death. In this image below, I wanted to see if people were content with the amount of hours they were getting. 64 people insisted that they did not recieve enough sleep while 38 insisted they got enough rest. 
 
 ![Enough Data.png]({{site.baseurl}}/img/Enough Data.png)
 
-Throughout the day, we use a lot of energy as humans. I would like 
 
-Next, we can look at different ways we can effect our sleep by not even knowing. We conducted a survey and we wanted to see how many people slept with their phone in arms reach and how many hours they slept.
+Next, we can look at different ways we can effect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realize. We conducted a survey and we wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
 
 ![PhoneReach Hrs.png]({{site.baseurl}}/img/PhoneReach Hrs.png)
 Majority of the people had their phones in arms reach. 71 people said yes while 31 said no. You might be wondering now if you sleep with your phone in an arms reach. There is no major difference between hours slept if you had your phone near you or not. 
