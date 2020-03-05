@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are you Actually getting enough Sleep?
-subtitle: Each post also has a subtitle
+subtitle: Sleep is Important
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
@@ -11,6 +11,7 @@ tags:
   - test
 comments: true
 published: true
+date: '2020-03-05'
 ---
 
 A lot of people are not content with the number of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear others express how energized they are for the day to begin. Sleep is very important in your everyday life. Can you still be tired even after getting enough sleep? The truth is, sleep can dictate the way your day might lay out in front of you and even what you do before sleep contributes. 
