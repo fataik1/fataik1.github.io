@@ -37,7 +37,7 @@ People will often cut back on their sleep for work, for family demands, or even 
 ![Enough Data.png]({{site.baseurl}}/img/Enough Data.png)
 
 
-Next, we can look at different ways we can affect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realize. We conducted a survey and we wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
+Next, I can look at different ways we can affect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realze. I wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
 
 ![PhoneReach Hrs.png]({{site.baseurl}}/img/PhoneReach Hrs.png)
 
