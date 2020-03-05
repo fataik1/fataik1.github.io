@@ -13,7 +13,7 @@ comments: true
 published: true
 ---
 
-A lot of people are not content with the amount of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear others express how energized they are for the day to begin. Sleep is very important to your everyday life. Can you still be tired even after getting enough sleep? The truth is, sleep can dictate the way your day might lay out in front of you and even what you do before sleep contributes. 
+A lot of people are not content with the number of hours they sleep per night. Throughout your week, you might hear a few people complain that they are tired or they didn't sleep enough. You might even hear others express how energized they are for the day to begin. Sleep is very important in your everyday life. Can you still be tired even after getting enough sleep? The truth is, sleep can dictate the way your day might lay out in front of you and even what you do before sleep contributes. 
 
 
 
@@ -23,7 +23,7 @@ I found my data off the website [https://www.kaggle.com/mlomuscio/sleepstudypilo
 
 ![head.png]({{site.baseurl}}/img/head.png)
 
-One night of short sleep can affect you the next day. Getting enough sleep is important, but good sleep quality is also essential. Signs of poor sleep quality include feeling sleepy or tired even after getting enough sleep, repeatedly waking up during the night, and having symptoms of sleep disorders. After cleaning the data and assigning 0 or 1 for yes and no, I was able to get a graph to see all of this data.  The purpose is to show the value for all the columns. I can see that majority of people believe they do not get enough sleep. I also see that most people typically eat breakfast in the morning and are on their phones before they sleep. 
+One night of short sleep can affect you the next day. Getting enough sleep is important, but good sleep quality is also essential. Signs of poor sleep quality include feeling sleepy or tired even after getting enough sleep, repeatedly waking up during the night, and having symptoms of sleep disorders. After cleaning the data and assigning 0 or 1 for yes and no, I was able to get a graph to see all of this data.  The purpose is to show the value for all the columns. I can see that the majority of people believe they do not get enough sleep. I also see that most people typically eat breakfast in the morning and are on their phones before they sleep. 
 
 ![Questions.png]({{site.baseurl}}/img/Questions.png)
 
@@ -37,7 +37,7 @@ People will often cut back on their sleep for work, for family demands, or even 
 ![Enough Data.png]({{site.baseurl}}/img/Enough Data.png)
 
 
-Next, I can look at different ways we can affect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realze. I wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
+Next, I can look at different ways we can affect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realize. I wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
 
 ![PhoneReach Hrs.png]({{site.baseurl}}/img/PhoneReach Hrs.png)
 
@@ -53,5 +53,5 @@ While you rest, your brain stays busy, it keeps your body running in top conditi
 
 ****Conclusion****
 
-Our need for sleep will only increase if we do not take care of the quality of our sleep. We need to make sure we are paying attention to phone usage before going to bed. Being on the phone before bed reduces the total amount of REM sleep, and compromises alertness the next morning. Over time, these effects can add up to a significant, chronic deficiency in sleep. Sleep Keeps Your Heart Healthy, it can also reduce stress in your life. A finding I found cool was that sleep Improves Your Memory. The most important to me about this is that sleep helps the body repair itself. Also, remember that it's important for the body to get at least 6-9 hours of sleep. Children and teens need even more. Sleep is something we all take for granted, remember it's about quality not quantity. 
+Our need for sleep will only increase if we do not take care of the quality of our sleep. We need to make sure we are paying attention to phone usage before going to bed. Being on the phone before bed reduces the total amount of REM sleep, and compromises alertness the next morning. Over time, these effects can add up to a significant, chronic deficiency in sleep. Sleep Keeps Your Heart Healthy, it can also reduce stress in your life. A finding I found cool was that sleep Improves Your Memory. The most important to me about this is that sleep helps the body repair itself. Also, remember that it's important for the body to get at least 6-9 hours of sleep. Children and teens need even more. Sleep is something we all take for granted, remember it's about quality, not quantity. 
 
