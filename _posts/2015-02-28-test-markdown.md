@@ -32,14 +32,13 @@ One night of short sleep can affect you the next day. Getting enough sleep is im
 
 I wanted to see if there was a correlation with the number of hours slept and if people were still tired. In this finding, I saw there was a small correlation and it's the more hours slept, the student was found to be a little less tired. The average amount of sleep a student has was 6 hours and 36 minutes. If students tend to sleep more than 7 hours or less than 6 hours, they also too are known to be more tired than the rest. 
 
+![mix.png]({{site.baseurl}}/img/mix.png)
+
+
 ![correlation.png]({{site.baseurl}}/img/correlation.png)
 
 
-People will often cut back on their sleep for work, for family demands, or even to watch a good show on television. Sleep is a regular part of your routine, you may be at an increased risk for obesity, diabetes, high blood pressure, coronary heart disease and stroke, poor mental health, and even early death. In this image below, I wanted to see if people were content with the number of hours they were getting. Sixty-four people insisted that they did not receive enough sleep while thirty-eight insisted they got enough rest. 
-
-![Enough Data.png]({{site.baseurl}}/img/Enough Data.png)
-
-
+People will often cut back on their sleep for work, for family demands, or even to watch a good show on television. Sleep is a regular part of your routine, you may be at an increased risk for obesity, diabetes, high blood pressure, coronary heart disease and stroke, poor mental health, and even early death. 
 Next, I can look at different ways we can affect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realize. I wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
 
 ![PhoneReach Hrs.png]({{site.baseurl}}/img/PhoneReach Hrs.png)
