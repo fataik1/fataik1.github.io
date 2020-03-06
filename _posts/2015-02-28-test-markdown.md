@@ -3,8 +3,8 @@ layout: post
 title: Are you Actually getting enough Sleep?
 subtitle: >-
   My portfolio project will be an analysis on Sleep and to see how if the hours
-  you sleep can affectyour tiredness level and see if you eat breakfast which is
-  the most important meal of the day!
+  you sleep can affect your tiredness level and see if you eat breakfast which
+  is the most important meal of the day!
 gh-repo: daattali/beautiful-jekyll
 gh-badge:
   - star
