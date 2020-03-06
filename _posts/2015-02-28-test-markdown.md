@@ -66,3 +66,5 @@ Our need for sleep will only increase if we do not take care of the quality of o
 [https://www.kaggle.com/mlomuscio/sleepstudypilot](https://www.kaggle.com/mlomuscio/sleepstudypilot)
 
 [https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm](https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm)
+
+[Fatai's Colab](https://colab.research.google.com/drive/16PjnXh5z8peC7sN9AVseHamAt0mCAD94)
