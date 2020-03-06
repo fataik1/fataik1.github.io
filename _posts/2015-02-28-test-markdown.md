@@ -56,8 +56,10 @@ Our need for sleep will only increase if we do not take care of the quality of o
 
 
 **Reference**
-[Sleep](http://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory)
 
-[Kaggle](https://www.kaggle.com/mlomuscio/sleepstudypilot)
 
-[Needs](https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm)
+[http://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory](http://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory)
+
+[https://www.kaggle.com/mlomuscio/sleepstudypilot](https://www.kaggle.com/mlomuscio/sleepstudypilot)
+
+[https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm](https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm)
