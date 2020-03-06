@@ -41,7 +41,7 @@ I wanted to see if there was a correlation with the number of hours slept and if
 	
 Next, I can look at different ways we can affect our sleep by not even knowing. Keeping your phone on your nightstand may not seem like a big deal, but technology affects your sleep in more ways than you realize. I wanted to see how many people slept with their phone in arms reach and how many hours they slept. Reducing melatonin makes it harder to fall and stay asleep. Most Americans admit to using electronics a few nights a week within an hour before bedtime. But to make sure technology isn’t harming your slumber, give yourself at least 30 minutes of gadget-free transition time before hitting the hay.
 
-![]({{site.baseurl}}/img/PhoneReach%20Hrs.png)
+![mix.png]({{site.baseurl}}/img/mix.png)
 
 The majority of the people had their phones in arms reach. Seventy-one people said yes while 31 said no. You might be wondering now if you sleep with your phone in an arms reach. There is no major difference between hours slept if you had your phone near you or not. People will often cut back on their sleep for work, for family demands, or even to watch a good show on television. Sleep is a regular part of your routine, you may be at an increased risk for obesity, diabetes, high blood pressure, coronary heart disease and stroke, poor mental health, and even early death. 
 
