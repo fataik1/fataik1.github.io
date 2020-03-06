@@ -50,4 +50,14 @@ While you rest, your brain stays busy, it keeps your body running in top conditi
 
 **Conclusion**
 
-Our need for sleep will only increase if we do not take care of the quality of our sleep. We need to make sure we are paying attention to phone usage before going to bed. Being on the phone before bed reduces the total amount of REM sleep, and compromises alertness the next morning. Over time, these effects can add up to a significant, chronic deficiency in sleep. After going throug this data, I can say that students believe they are not tired if they gain quality sleep. Sleep is known to keep your heart healthy, it can also reduce stress in your life. A finding I found cool was that [sleep](http://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory) Improves Your Memory. The most important to me about this is that sleep helps the body repair itself. Also, remember that it's important for the body to get at least 6-9 hours of sleep. Children and teens need even more. Sleep is something we all take for granted, remember it's about quality, not quantity. 
+Our need for sleep will only increase if we do not take care of the quality of our sleep. We need to make sure we are paying attention to phone usage before going to bed. Being on the phone before bed reduces the total amount of REM sleep, and compromises alertness the next morning. Over time, these effects can add up to a significant, chronic deficiency in sleep. After going throug this data, I can say that students believe they are not tired if they gain quality sleep. Sixty-eight percent of the students in this survey suggest that they do indeed get enough sleep and are not tired in the morning. Thirty-two percent of students suggested otherwise. Sleep is known to keep your heart healthy, it can also reduce stress in your life. A finding I found cool was that [sleep](http://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory) Improves Your Memory. The most important to me about this is that sleep helps the body repair itself. Also, remember that it's important for the body to get at least 6-9 hours of sleep. Children and teens need even more. Sleep is something we all take for granted, remember it's about quality, not quantity. 
+
+
+
+
+**Reference**
+[Sleep](http://healthysleep.med.harvard.edu/healthy/matters/benefits-of-sleep/learning-memory)
+
+[Kaggle](https://www.kaggle.com/mlomuscio/sleepstudypilot)
+
+[Needs](https://www.helpguide.org/articles/sleep/sleep-needs-get-the-sleep-you-need.htm)
