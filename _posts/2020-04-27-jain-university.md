@@ -32,9 +32,13 @@ While working on my code, I ran a permutation importance graph. The degree type 
 
 ![Perm Graph.png]({{site.baseurl}}/img/Perm Graph.png)
 
-We can see that higher 2nd education & how close you are getting your MBA can factor the degree type as well. Surprised that your regular degree percentage would matter less than your MBA percentage. Since, some people don't continue on with school. 
+We can see that higher 2nd education & how close you are getting your MBA can factor the degree type as well. Surprised that your regular degree percentage would matter less than your MBA percentage. Since, some people don't continue on with school.
 
+Next, I wanted to explain the predicition of the linear classification by using an eli5 graph. From here, we notice that degree specialisation is still on top.
 
+![eli5.png]({{site.baseurl}}/img/eli5.png)
+
+ A few changes though. The features that can influence your degree type are: 2nd Education percentage, degree percentage, mba percentage, 2nd education board, your serial number, and the specialisation of the degree. 
 
 
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help. 
