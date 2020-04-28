@@ -3,7 +3,7 @@ layout: post
 published: false
 title: Jain University
 ---
-## College is right around the corner!
+## College is Right Around the Corner!
 
 ![Jain-University-Bangalore.jpg]({{site.baseurl}}/img/Jain-University-Bangalore.jpg)
 
@@ -28,10 +28,11 @@ The correlations are showing how much your salary can increase by. Based on the 
 
 So, what can help determine the type of degree you'd like to get?
 
-While working on my code, I ran a permutation importance graph. The degree type you would like to Specialise in will help increase you determine the degree type you'll get. 
+While working on my code, I ran a permutation importance graph. The degree type you would like to Specialise in will help increase you determine the degree type you'll get. Specialization happens after you complete your undergrad. The MBA percentage tells you the likelihood of a person to finish off school and get their masters. 
 
 ![Perm Graph.png]({{site.baseurl}}/img/Perm Graph.png)
 
+We can see that higher 2nd education & how close you are getting your MBA can factor the degree type as well. Surprised that your regular degree percentage would matter less than your MBA percentage. Since, some people don't continue on with school. 
 
 
 
