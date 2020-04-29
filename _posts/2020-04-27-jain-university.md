@@ -19,7 +19,10 @@ I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/facto
 
 From the image above, we notice that in this dataset, there are more Male observations than Females. Also to find interesting, Women in this dataset were found to have a higher: 2nd Education Percentage,	Higher 2nd Education, Degree Percentage, and Master Percentage then men. But Men had higher, employability test and	 the salary they receieve are higher than the women. From doing outside research and prior knowledge, I've heard about the gender wage gap. The wage gap is the average difference between the payment for men and women who are working. Women are generally considered to be paid less than men. 
 
-I started off playing with the data. I wanted to do some feature engineering so I changed renamed most of the columns to get a better understanding of the data and then I wanted to see the correlation between salary and the other columns. 
+![salary.png]({{site.baseurl}}/img/salary.png)
+
+
+I started off playing with the data. I wanted to do some feature engineering so I renamed most of the columns to get a better understanding of the data and then I wanted to see the correlation between salary and the other columns. 
 
 ![featurees.png]({{site.baseurl}}/img/featurees.png)
 ![corr.png]({{site.baseurl}}/img/corr.png)
@@ -28,11 +31,11 @@ The correlations are showing how much your salary can increase by. Based on the 
 
 So, what can help determine the type of degree you'd like to get?
 
-While working on my code, I ran a permutation importance graph. The degree type you would like to Specialise in will help increase you determine the degree type you'll get. Specialization happens after you complete your undergrad. The MBA percentage tells you the likelihood of a person to finish off school and get their masters. 
+While working on my code, I ran a permutation importance graph. The degree type you would like to Specialise in will help increase you determine the degree type you'll get. Specialization happens after you complete your undergrad. The MBA percentage tells you the student's grade while attempting to graduate. 
 
 ![Perm Graph.png]({{site.baseurl}}/img/Perm Graph.png)
 
-We can see that higher 2nd education & how close you are getting your MBA can factor the degree type as well. Surprised that your regular degree percentage would matter less than your MBA percentage. Since, some people don't continue on with school.
+We can see that higher 2nd education & MBA can factor the degree type as well. Not surprised that your regular degree percentage would matter less than your MBA percentage. Since, some people don't continue on with school.
 
 Next, I wanted to explain the predicition of the linear classification by using an eli5 graph. From here, we notice that degree specialisation is still on top.
 
@@ -45,7 +48,7 @@ Next, I wanted to explain the predicition of the linear classification by using 
  
  ![pdp heatmap.png]({{site.baseurl}}/img/pdp heatmap.png)
 
-From the graph shown, it seems that the high school cirriculum was a little bit harder compared to the MBA cirriculum based on the average percentages.
+From the graph shown, it seems that the high school cirriculum has a better grade percentage than the  a MBA cirriculum percentage based on the student grades.
 
 
 I wanted to look at another Partial Dependence Plot to see if '2nd Education' & 'MBA' have high concentration percentages. 
@@ -58,7 +61,9 @@ With the 2nd Education, there was an immediate spike downards with a low concent
 ![Master percentage.png]({{site.baseurl}}/img/Master percentage.png)
 
 With the MBA, there was an immediate spike and it was positive. MBA also has a low concentration and rises from 50 to 55 %.
+
+
+From what I've seen throughout my research on this project is, the better grades you have, will help increase your salary. Also your degree type depends on the degree you want to specialize in and the percentages you get in class. 
  
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
