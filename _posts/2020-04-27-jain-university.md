@@ -13,7 +13,7 @@ Anyone who has ever been through the process of applying to college knows how st
 
 ## Data
 
-I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement). In this dataset, there was 215 observations and 15 columns, we use all of the columns to evaluate a student's education history and to see if they are on the track to finally getting their masters.  The observations were a little low if you ask me. First I wanted to look at how gender compares to all of the columns. 
+I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement). In this dataset, there was 215 observations and 15 columns, we use all of the columns to evaluate a student's education history and to see if they are on track to completing their masters and landing a job. The observations were a little low if you ask me. First I wanted to look at how gender compares to all of the columns. 
 
 ![project 1.png]({{site.baseurl}}/img/project 1.png)
 
@@ -38,13 +38,26 @@ Next, I wanted to explain the predicition of the linear classification by using 
 
 ![eli5.png]({{site.baseurl}}/img/eli5.png)
 
- A few changes though. The features that can influence your degree type are: 2nd Education percentage, degree percentage, mba percentage, 2nd education board, your serial number, and the specialisation of the degree. 
+ Here we notice a few changes though. The features that can influence your degree type are: 2nd Education percentage, degree percentage, mba percentage, 2nd education board, your serial number, and the specialisation of the degree. 
  
  
  Next, I wanted to compare the students 2nd education percentage(HS Grade 10) with their MBA percentage. I used a Partial Dependance Plot to show. 
  
  ![pdp heatmap.png]({{site.baseurl}}/img/pdp heatmap.png)
 
+From the graph shown, it seems that the high school cirriculum was a little bit harder compared to the MBA cirriculum based on the average percentages.
+
+
+I wanted to look at another Partial Dependence Plot to see if '2nd Education' & 'MBA' have high concentration percentages. 
+
+![education percentage.png]({{site.baseurl}}/img/education percentage.png)
+
+
+With the 2nd Education, there was an immediate spike downards with a low concentration. It then begins to surprass 0 at around 70% which is about the mean of the students grades at High School. 
+
+![Master percentage.png]({{site.baseurl}}/img/Master percentage.png)
+
+With the MBA, there was an immediate spike and it was positive. MBA also has a low concentration and rises from 50 to 55 %.
  
 
 
