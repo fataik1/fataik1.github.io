@@ -63,7 +63,7 @@ With the 2nd Education, there was an immediate spike downards with a low concent
 With the MBA, there was an immediate spike and it was positive. MBA also has a low concentration and rises from 50 to 55 %.
 
 
-From what I've seen throughout my research on this project is, the better grades you have, will help increase your salary. Also your degree type depends on the degree you want to specialize in and the percentages you get in class. 
+From what I've seen throughout my research on this project is, your degree type depends on the degree you want to specialize in and the percentages you get in class dictates how much your salary will increase by when you complete your MBA. The better your employability test percentage is, the better your salary will increase too.
  
 
 
