@@ -41,9 +41,11 @@ Next, I wanted to explain the predicition of the linear classification by using 
  A few changes though. The features that can influence your degree type are: 2nd Education percentage, degree percentage, mba percentage, 2nd education board, your serial number, and the specialisation of the degree. 
  
  
- Next, I wanted to compare the scores of students with 2nd education percentage and the MBA %. I used a Partial Dependance Plot to show. 
+ Next, I wanted to compare the students 2nd education percentage(HS Grade 10) with their MBA percentage. I used a Partial Dependance Plot to show. 
  
+ ![pdp heatmap.png]({{site.baseurl}}/img/pdp heatmap.png)
+
  
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help. 
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
