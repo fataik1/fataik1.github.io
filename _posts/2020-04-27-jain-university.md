@@ -2,6 +2,8 @@
 layout: post
 published: false
 title: Jain University
+subtitle: Degrees and Percentages
+date: '2020-04-29'
 ---
 ## College is Right Around the Corner!
 
