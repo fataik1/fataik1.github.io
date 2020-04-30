@@ -10,7 +10,14 @@ date: '2020-04-29'
 ![Jain-University-Bangalore.jpg]({{site.baseurl}}/img/Jain-University-Bangalore.jpg)
 
 
+
+
+
 Anyone who has ever been through the process of applying to college knows how stressful this time period can become. From the anxiety of waiting on the school of your dreams to answer on your admission or, to freaking out about choices you are unsure about. This process can hold a weight on you without even knowing it. The college process is definetly not an easy one. Now, we begin to think about the what gets us in these universities. Is it our work ethic, how much education knowledge we have, is there a placement test? All of these things can factor whether your likely to get into a school or not.
+
+# Abstract
+
+I was quite interested in the topic of school. My little brother is almost at that age where he is going to go through the college process. With observing the data, I was quite curious to see how they determined if a student were ready to get a job or not. So, I began to ask myself, what factors influence a students success in this dataset. When I began coding, I wanted to first find the results of Males and Females. Men were the dominant force in this data. Next, I wanted to see any correlation between the salary and grade percentages. Like what would help increase my salary and how much of school would I need? After finding this, I wanted to see what helped influence the degree type a student would like to have. I ran an importance graph to explore that finding. The results show that a students grades influence whether they will land a job or not. Grades throughout the years have impacted students in a positive or negative way. 
 
 
 ## Data Evaluation
