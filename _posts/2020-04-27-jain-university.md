@@ -31,7 +31,7 @@ I started off playing with the data. I wanted to do some feature engineering so 
 
 The correlations are showing how much your salary can increase by. Based on the results above, if you have a 2nd education (high school) your salary can jump up 53.8%. If you have graduated and are going back for your masters, you can earn an additional 14%. Based on experience, you might see your wage increase when applying for different jobs by maybe 30%. Seeing these numbers rise definetly shows how important education is to your salary. Without an education, it is very hard to make good money unless you have a concrete plan that has helped you. 
 
-So, what can help determine the type of degree you'd like to get?
+So, what can help determine the type of degree you'd like to get? Is there a relationship between 2nd education and your mba percentage? I'd like to find out by running some tests.
 
 While working on my code, I ran a permutation importance graph. The degree type you would like to Specialise in will help increase you determine the degree type you'll get. Specialization happens after you complete your undergrad. The MBA percentage tells you the student's grade while attempting to graduate. 
 
