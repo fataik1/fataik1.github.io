@@ -15,7 +15,7 @@ Anyone who has ever been through the process of applying to college knows how st
 
 ## Data Evaluation
 
-I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement). In this dataset, there was 215 observations and 15 columns, we use all of the columns to evaluate a student's education history and to see if they are on track to completing their masters and landing a job. The observations were a little low if you ask me. First I wanted to look at how gender compares to all of the columns. 
+I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement). In this dataset, there was 215 observations and 15 columns, we use all of the columns to evaluate a student's education history and to see if they are on track to completing their masters and landing a job. The observations were a little low if you ask me. First I wanted to look at how gender compares to all of the columns.  Here is my [github](https://github.com/fataik1/JainUniversityProject/blob/master/Updated_Jain_University_LS_DS_231_assignment.ipynb) link.
 
 ![project 1.png]({{site.baseurl}}/img/project 1.png)
 
