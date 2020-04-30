@@ -40,7 +40,7 @@ First I want to look at this heatmap correlation.
 
 ![status heatmap.png]({{site.baseurl}}/img/status heatmap.png)
 
-There strongest correlation I found happened to be at .61 which is 2nd Education percentage and your status if you're getting a job or not. Maybe you can interpret this as, the percentages you got in high school can dictate your success on landing a job.
+The strongest correlation I found happened to be at .61 which is 2nd Education percentage and your status if you're getting a job or not. Maybe you can interpret this as, the percentages you got in high school can dictate your success on landing a job.
 
 ## Core Data
 
