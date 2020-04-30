@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Jain University
 subtitle: Degrees and Percentages
 date: '2020-04-29'
