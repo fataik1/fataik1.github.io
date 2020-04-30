@@ -34,13 +34,13 @@ The correlations are showing how much your salary can increase by. Based on the 
 ## Problem
 
 
-So, which factor influenced a student in getting placed? What can help determine the type of degree you'd like to get? Is there a relationship between 2nd education and your mba percentage? I'd like to find out by running some tests.
+So, which factors influence a student in getting placed landing a job? What can help determine the type of degree you'd like to get? Is there a relationship between 2nd education and your mba percentage? I'd like to find out by running some tests.
 
 First I want to look at this heatmap correlation.
 
-![heatmap.png]({{site.baseurl}}/img/heatmap.png)
+![status heatmap.png]({{site.baseurl}}/img/status heatmap.png)
 
-There strongest correlation I found happened to be at .54 which is 2nd Education percentage and your degree percentage. Maybe you can interpret this as, the percentages you got in high school can dictate your performance on how well you do in getting your degree.
+There strongest correlation I found happened to be at .61 which is 2nd Education percentage and your status if you're getting a job or not. Maybe you can interpret this as, the percentages you got in high school can dictate your success on landing a job.
 
 ## Core Data
 
@@ -78,4 +78,4 @@ With the MBA, there was an immediate spike and it was positive. MBA also has a l
 
 ## Conclusion
 
-From what I've seen throughout my research on this project is, your degree type depends on the degree you want to specialize in and the percentages you get in class dictates how much your salary will increase by when you complete your MBA. The better your employability test percentage is, the better your salary will increase too.
+From what I've seen throughout my research on this project is, your status whether you will likely get a job or not is all based on your perfomance in school. Majority of the people who were placed to have a job had a  grade percentage of 70% and better in all categories. When it gets to masters, majority of the placed had a grade percentage of 65% and better. Your degree type depends on the degree you want to specialize in and the percentages you get in class dictates how much your salary will increase by when you complete your MBA. The better your employability test percentage is, the better your salary will increase too.
