@@ -33,7 +33,7 @@ The correlations are showing how much your salary can increase by. Based on the 
 
 So, what can help determine the type of degree you'd like to get? Is there a relationship between 2nd education and your mba percentage? I'd like to find out by running some tests.
 
-While working on my code, I ran a permutation importance graph. The degree type you would like to Specialise in will help increase you determine the degree type you'll get. Specialization happens after you complete your undergrad. The MBA percentage tells you the student's grade while attempting to graduate. 
+While working on my code, I ran a permutation importance graph. The degree you would like to Specialise in will help increase your knowledge on the degree type you'd want to get. Specialization happens after you complete your undergrad. The MBA percentage tells you the student's grade during their mba. 
 
 ![Perm Graph.png]({{site.baseurl}}/img/Perm Graph.png)
 
