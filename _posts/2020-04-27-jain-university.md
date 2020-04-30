@@ -5,7 +5,7 @@ title: Jain University
 subtitle: Degrees and Percentages
 date: '2020-04-29'
 ---
-## College is Right Around the Corner!
+## College Is Right Around the Corner!
 
 ![Jain-University-Bangalore.jpg]({{site.baseurl}}/img/Jain-University-Bangalore.jpg)
 
