@@ -29,7 +29,7 @@ I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/facto
 
 From the image above, we notice that in this dataset, there are more Male observations than Females. Also to find interesting, Women in this dataset were found to have a higher: 2nd Education Percentage,	Higher 2nd Education, Degree Percentage, and Master Percentage then men. But Men had higher, employability test and	 the salary they receieve are higher than the women. From doing outside research and prior knowledge, I've heard about the gender wage gap. The wage gap is the average difference between the payment for men and women who are working. Women are generally considered to be paid less than men. 
 
-![salary.png]({{site.baseurl}}/img/salary.png)
+![sal.png]({{site.baseurl}}/img/sal.png)
 
 
 I started off playing with the data. I wanted to do some feature engineering so I renamed most of the columns to get a better understanding of the data and then I wanted to see the correlation between salary and the other columns. 
