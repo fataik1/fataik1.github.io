@@ -29,13 +29,13 @@ I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/facto
 
 From the image above, we notice that in this dataset, there are more Male observations than Females. Also to find interesting, Women in this dataset were found to have a higher: 2nd Education Percentage,	Higher 2nd Education, Degree Percentage, and Master Percentage then men. But Men had higher, employability test and	 the salary they receieve are higher than the women. From doing outside research and prior knowledge, I've heard about the gender wage gap. The wage gap is the average difference between the payment for men and women who are working. Women are generally considered to be paid less than men. 
 
-![sal.png]({{site.baseurl}}/img/sal.png)
+![salary.png]({{site.baseurl}}/img/salary.png)
 
 
 I started off playing with the data. I wanted to do some feature engineering so I renamed most of the columns to get a better understanding of the data and then I wanted to see the correlation between salary and the other columns. 
 
 ![featurees.png]({{site.baseurl}}/img/featurees.png)
-![corr.png]({{site.baseurl}}/img/corr.png)
+![sal.png]({{site.baseurl}}/img/sal.png)
 
 The correlations are showing how much your salary can increase by. Based on the results above, if you have a 2nd education (high school) your salary can jump up 53.8%. If you have graduated and are going back for your masters, you can earn an additional 14%. Based on experience, you might see your wage increase when applying for different jobs by maybe 30%. Seeing these numbers rise definetly shows how important education is to your salary. Without an education, it is very hard to make good money unless you have a concrete plan that has helped you. 
 
