@@ -24,7 +24,8 @@ I was quite interested in the topic of school. My little brother is almost at th
 
 I found my data off the website  [Kaggle](https://www.kaggle.com/benroshan/factors-affecting-campus-placement). In this dataset, there was 215 observations and 15 columns, we use all of the columns to evaluate a student's education history and to see if they are on track to completing their masters and landing a job. The observations were a little low if you ask me. First I wanted to look at how gender compares to all of the columns.  Here is my [github](https://github.com/fataik1/JainUniversityProject/blob/master/Updated_Jain_University_LS_DS_231_assignment.ipynb) link.
 
-![project 1.png]({{site.baseurl}}/img/project 1.png)
+![gender.png]({{site.baseurl}}/img/gender.png)
+
 
 From the image above, we notice that in this dataset, there are more Male observations than Females. Also to find interesting, Women in this dataset were found to have a higher: 2nd Education Percentage,	Higher 2nd Education, Degree Percentage, and Master Percentage then men. But Men had higher, employability test and	 the salary they receieve are higher than the women. From doing outside research and prior knowledge, I've heard about the gender wage gap. The wage gap is the average difference between the payment for men and women who are working. Women are generally considered to be paid less than men. 
 
