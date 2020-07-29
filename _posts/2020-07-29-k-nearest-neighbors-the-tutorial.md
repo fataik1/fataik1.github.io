@@ -3,7 +3,10 @@ layout: post
 published: false
 title: 'K Nearest Neighbors: The Tutorial'
 ---
-## A New Post
+## How to Implement a K Nearest Neighbor Algorithm
+
+![class.jpg]({{site.baseurl}}/img/class.jpg)
+
 
 Today, I would like to talk about K-Nearest Neighbors. Easier known as KNN. This happens to be known as one of the simpler classification algorithms and is happens to be one of the most used in learning algorithms. This method is preffered by many in the industry because of its ease of use and low calculation time. 
 
@@ -37,6 +40,28 @@ Here is my test with an easy dataset and a reference point:
 ![distance.png]({{site.baseurl}}/img/distance.png)
 
 Now that we have a working Euclidean Distance function, we can now move on and iterate through to find the K-Nearest Neighbors to our point. Now, since KNN models require datasets to be stored, our fit method is simply pulling the cleaned data into an array. Then, we will move the classification feature to the last element in each row. 
+![nn_fit.png]({{site.baseurl}}/img/nn_fit.png)
+
+Now let me test the fit function and see that it works:
+![data.png]({{site.baseurl}}/img/data.png)
+![result.png]({{site.baseurl}}/img/result.png)
+
+Since we just recently fitted the model, we can find the nearest neighbors.
+
+![getnn.png]({{site.baseurl}}/img/getnn.png)
+
+Here is the test for the function above
+
+![]({{site.baseurl}}/)![testnn.png]({{site.baseurl}}/img/testnn.png)
+
+Now that step 3 is completed, we can move on. Next, we are going to be making the prediction based on the classifications. For this model, we will be taking the mode of the K-Nearest Neighbors' classifications. Here is how I implemented my prediction model:
+![knnpre.png]({{site.baseurl}}/img/knnpre.png)
+Here is the results I got based on my prediction model:
+![testpredict.png]({{site.baseurl}}/img/testpredict.png)
+
+Here is a link to my [Github](https://github.com/fataik1/CS-Data-Science-Build-Week-1) repo. Here you will find my code which looks a lot cleaner than what is shown above. 
+
+You must beware of the Curse of Dimensionality when using KNN model. KNN models are appropriate for datsets with only a few features. As the number of features increases, the sparsity of the data will increase exponentially, meaning that the data will become less and less 'close'. The smaller the dataset, the fewer the features we will use. Next, don't forget about feature engineering and data cleaning. These steps are very important into having an accurate KNN model. Hopefully with this said, you are now able to implement your own KNN classification. Enjoy! 
 
 
 
