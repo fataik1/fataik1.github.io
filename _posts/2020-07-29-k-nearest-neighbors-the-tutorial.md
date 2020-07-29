@@ -10,7 +10,7 @@ title: 'K Nearest Neighbors: The Tutorial'
 
 Today, I would like to talk about K-Nearest Neighbors. Easier known as KNN. This happens to be known as one of the simpler classification algorithms and is happens to be one of the most used in learning algorithms. This method is preffered by many in the industry because of its ease of use and low calculation time. 
 
-I know many of you are wondering, well what is KNN? KNN is a model that classifies data points based on the points that are most similar to it. KNN uses test data to make an educated guess on what an unclassified point should be classified  as. 
+I know many of you are wondering, well what is KNN? KNN is a model that classifies data points based on the points that are most similar to it. KNN uses test data to make an educated guess on what an unclassified point should be classified  as. KNN is often used in simple recommendation systems, image recognition technology, and decision-making models. It is the algorithm companies like Netflix or Amazon use in order to recommend different movies to watch or books to buy.
 
 Planning with a KNN Classifier algorithm goes as this:
 
@@ -61,7 +61,7 @@ Here is the results I got based on my prediction model:
 
 Here is a link to my [Github](https://github.com/fataik1/CS-Data-Science-Build-Week-1) repo. Here you will find my code which looks a lot cleaner than what is shown above. 
 
-You must beware of the Curse of Dimensionality when using KNN model. KNN models are appropriate for datsets with only a few features. As the number of features increases, the sparsity of the data will increase exponentially, meaning that the data will become less and less 'close'. The smaller the dataset, the fewer the features we will use. Next, don't forget about feature engineering and data cleaning. These steps are very important into having an accurate KNN model. Hopefully with this said, you are now able to implement your own KNN classification. Enjoy! 
+You must beware of the Curse of Dimensionality when using KNN model. KNN models are appropriate for datsets with only a few features. As the number of features increases, the sparsity of the data will increase exponentially, meaning that the data will become less and less 'close'. The smaller the dataset, the fewer the features we will use. Next, don't forget about feature engineering and data cleaning. These steps are very important into having an accurate KNN model. Do your research. It is important to learn the correct practices for using this algorithm so you are finding the most accurate results from your data set. Hopefully with this said, you are now able to implement your own KNN classification. Enjoy! 
 
 
 
