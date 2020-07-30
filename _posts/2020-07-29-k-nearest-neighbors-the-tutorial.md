@@ -34,19 +34,13 @@ Now that you have an idea, I can begin to show you how we code this distance met
 
 ![sorry.png]({{site.baseurl}}/img/sorry.png)
 
+The function takes in two data points that are the same length. We want to iterate through each index of x1, find its value, and subtract the value at the same index position in x2. After squaring the difference, we then add that value to the existing distance total. Finally, we take the square root of the total distance to get the Euclidean distance between two points of data.
 
-Here is my test with an easy dataset and a reference point: 
 
-![distance.png]({{site.baseurl}}/img/distance.png)
-
-Now that we have a working Euclidean Distance function, we can now move on and iterate through to find the K-Nearest Neighbors to our point. Now, since KNN models require datasets to be stored, our fit method is simply pulling the cleaned data into an array. Then, we will move the classification feature to the last element in each row. 
+Now that we have a working Euclidean Distance function, we can now move on and iterate through to find the K-Nearest Neighbors to our point. Now, since KNN models require datasets to be stored, our fit method is simply pulling the cleaned data into an array. Then, we will move the classification feature to the last element in each row. When calling the fit() method, it will store the data to be used when we want to make a prediction.
 ![nn_fit.png]({{site.baseurl}}/img/nn_fit.png)
 
-Now let me test the fit function and see that it works:
-![data.png]({{site.baseurl}}/img/data.png)
-![result.png]({{site.baseurl}}/img/result.png)
-
-Since we just recently fitted the model, we can find the nearest neighbors.
+Since we just recently fitted the model, we can find the nearest neighbors. First, we put the distances in a list then, put the points is a list of arrays. I want to find all the distances. After we do that, I can find the smallest distances. I used numpy partition which creates a copy of the array with its elements rearranged in such a way that the value of the element in the k position is in the position it would be in a sorted array. Then I use the index command to find the row from dattarows I would like to append.
 
 ![getnn.png]({{site.baseurl}}/img/getnn.png)
 
@@ -56,8 +50,10 @@ Here is the test for the function above
 
 Now that step 3 is completed, we can move on. Next, we are going to be making the prediction based on the classifications. For this model, we will be taking the mode of the K-Nearest Neighbors' classifications. Here is how I implemented my prediction model:
 ![knnpre.png]({{site.baseurl}}/img/knnpre.png)
-Here is the results I got based on my prediction model:
-![testpredict.png]({{site.baseurl}}/img/testpredict.png)
+
+The 3 nearest neighbors all have classifications of ‘0’. So we will predict that our reference point 
+will also have a classification of ‘0’. Here is the results I got based on my prediction model:
+![test_case.png]({{site.baseurl}}/img/test_case.png)
 
 Here is a link to my [Github](https://github.com/fataik1/CS-Data-Science-Build-Week-1) repo. Here you will find my code which looks a lot cleaner than what is shown above. 
 
