@@ -38,6 +38,7 @@ The function takes in two data points that are the same length. We want to itera
 
 
 Now that we have a working Euclidean Distance function, we can now move on and iterate through to find the K-Nearest Neighbors to our point. Now, since KNN models require datasets to be stored, our fit method is simply pulling the cleaned data into an array. Then, we will move the classification feature to the last element in each row. When calling the fit() method, it will store the data to be used when we want to make a prediction.
+
 ![nn_fit.png]({{site.baseurl}}/img/nn_fit.png)
 
 Since we just recently fitted the model, we can find the nearest neighbors. First, we put the distances in a list then, put the points is a list of arrays. I want to find all the distances. After we do that, I can find the smallest distances. I used numpy partition which creates a copy of the array with its elements rearranged in such a way that the value of the element in the k position is in the position it would be in a sorted array. Then I use the index command to find the row from dattarows I would like to append.
