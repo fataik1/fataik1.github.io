@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: 'K Nearest Neighbors: The Tutorial'
 ---
 ## How to Implement a K Nearest Neighbor Algorithm
