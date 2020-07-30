@@ -61,7 +61,4 @@ Here is the results I got based on my prediction model:
 
 Here is a link to my [Github](https://github.com/fataik1/CS-Data-Science-Build-Week-1) repo. Here you will find my code which looks a lot cleaner than what is shown above. 
 
-You must beware of the Curse of Dimensionality when using KNN model. KNN models are appropriate for datsets with only a few features. As the number of features increases, the sparsity of the data will increase exponentially, meaning that the data will become less and less 'close'. The smaller the dataset, the fewer the features we will use. Next, don't forget about feature engineering and data cleaning. These steps are very important into having an accurate KNN model. Do your research. It is important to learn the correct practices for using this algorithm so you are finding the most accurate results from your data set. Hopefully with this said, you are now able to implement your own KNN classification. Enjoy! 
-
-
-
+You must beware of the Curse of Dimensionality when using KNN model. KNN models are appropriate for datsets with only a few features. As the number of features increases, the sparsity of the data will increase exponentially, meaning that the data will become less and less 'close'. The smaller the dataset, the fewer the features we will use. Next, don't forget about feature engineering and data cleaning. These steps are very important into having an accurate KNN model. Do your research. It is important to learn the correct practices for using this algorithm so you are finding the most accurate results from your data set. Hopefully with this said, you are now able to implement your own KNN classification. Enjoy!
