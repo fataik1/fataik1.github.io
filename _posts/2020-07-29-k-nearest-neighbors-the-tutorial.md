@@ -44,10 +44,6 @@ Since we just recently fitted the model, we can find the nearest neighbors. Firs
 
 ![getnn.png]({{site.baseurl}}/img/getnn.png)
 
-Here is the test for the function above
-
-![]({{site.baseurl}}/)![testnn.png]({{site.baseurl}}/img/testnn.png)
-
 Now that step 3 is completed, we can move on. Next, we are going to be making the prediction based on the classifications. For this model, we will be taking the mode of the K-Nearest Neighbors' classifications. Here is how I implemented my prediction model:
 ![knnpre.png]({{site.baseurl}}/img/knnpre.png)
 
